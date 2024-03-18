@@ -1,0 +1,15 @@
+
+.modal-dialog {
+    max-width: 780px;
+}
+
+body{
+    background-color: black;
+}
+.container{
+    background-color: #838383;
+    border-radius:12px;
+}
+h4{
+    color:#ffffff;
+}

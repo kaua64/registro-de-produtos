@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Della+Respira&family=Fuzzy+Bubbles:wght@400;700&family=Madimi+One&family=Trocchi&display=swap');
+
+:root {
+    --cor-primaria: rgb(83, 83, 83);
+    --cor-secundaria: #dbdbdb;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: "Della Respira", serif;
+}
